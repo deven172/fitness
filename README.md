@@ -1,6 +1,5 @@
 # Fitness
 
-This repository is intended for future fitness-related projects.
+This repository contains a simple offline-first PWA for fitness tracking.
 
-At the moment it only contains this README file.
-
+See [fitness-mvp/README.md](fitness-mvp/README.md) for setup instructions and features.
